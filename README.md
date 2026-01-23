@@ -1,3 +1,24 @@
 # cookie-clicker
 cookie-clicker
 -forgot to make the repo, so this is what we have so far
+-started with making the basic html structure
+-in javascript started by making the basic querySelector list and their functions
+-give the cookies their value and cps
+-change click value to 10,000 for ease of testing
+-create async function upgrades with cookie API
+-need to figure out how to add second interval for cookiespersecond
+-
+
+
+
+
+
+
+
+DONE 🎯 Fetch upgrade data from the provided API and at least one upgrade from the API update the cookie count.
+DONE I THINK?🎯 Ensure that functions are used effectively to keep code organised and reusable.
+DON 🎯 Implement event listeners to handle user interactions.
+DONE 🎯 Use local storage to save and restore the cookie count and relevant game information.
+NOT DONE, FIGURING IT OUT🎯 Use setInterval to increment the cookie count and manage the game state each second.
+
+DONE 🐿️ As a developer, I want to use a single function to handle all upgrades, so that the code is more organized and easier to maintain.
