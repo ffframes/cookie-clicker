@@ -52,7 +52,7 @@ resetButton.addEventListener('click', () => {
 
 setInterval(() => {
     if (cookiesPerSecond > 0) {
-        cookier = cookies + cookiesPerSecond;
+        cookies = cookies + cookiesPerSecond;
         updateDisplay();
     }
 }, 1000);

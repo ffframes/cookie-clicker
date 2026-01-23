@@ -7,7 +7,7 @@ cookie-clicker
 -change click value to 10,000 for ease of testing
 -create async function upgrades with cookie API
 -need to figure out how to add second interval for cookiespersecond
--
+-can't figure out why cookies number isnt' going up every second
 
 
 
