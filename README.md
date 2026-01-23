@@ -8,12 +8,10 @@ cookie-clicker
 -create async function upgrades with cookie API
 -need to figure out how to add second interval for cookiespersecond
 -can't figure out why cookies number isnt' going up every second
+-sorted
+-i think the game is finished, this was hard
 
-
-
-
-
-
+///
 
 DONE 🎯 Fetch upgrade data from the provided API and at least one upgrade from the API update the cookie count.
 DONE I THINK?🎯 Ensure that functions are used effectively to keep code organised and reusable.
