@@ -20,6 +20,7 @@ cookieButton.addEventListener('click', () => {
 async function getUpgrades() {
     const response = await fetch('https://cookie-upgrade-api.vercel.app/api/upgrades');
     const upgrades = await response.json();
+    console.log("Upgrades fetched successfully:", upgrades);
 
     upgrades.forEach((item) => {
         const button = document.createElement('button');
@@ -48,6 +49,7 @@ resetButton.addEventListener('click', () => {
     cookies = 0;
     cookiesPerSecond = 0;
     updateDisplay();
+    console.log("Resetting game data.");
 });
 
 setInterval(() => {
