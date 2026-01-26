@@ -11,6 +11,14 @@ cookie-clicker
 -sorted
 -i think the game is finished, this was hard
 
+
+
+Action //	Where is it saved?
+Clicking Cookie	cookies + 10000	// Local Storage & Screen
+Buying Upgrade	cookies ↓ / CPS ↑	// Local Storage & Screen
+Every Second	cookies increases	// Local Storage & Screen
+Reset	Everything → 0	// Local Storage deleted
+
 ///
 
 DONE 🎯 Fetch upgrade data from the provided API and at least one upgrade from the API update the cookie count.
